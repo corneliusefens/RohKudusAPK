@@ -18,9 +18,6 @@ import android.webkit.DownloadListener;
 import android.webkit.URLUtil;
 import android.widget.Toast;
 
-
-
-
 public class Home2Activity extends AppCompatActivity {
 
     private static int SPLASH_TIME_OUT = 3000;
